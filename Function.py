@@ -276,8 +276,8 @@ def main_gui():
         if event == "帮助":
             help_main()
         if event == "作者信息":
-            sg.popup("\t作者：Yang.Fan\n"
-                     "\t学号：2102140402046\n"
+            sg.popup("\t作者：Yng.F\n"
+                     "\t学号：210****46\n"
                      "\t邮箱：a2078769713@sina.com\n"
                      "\t主页：https://github.com/GunsK-III\t", title="作者信息")
         if event == "打开摄像头识别":
